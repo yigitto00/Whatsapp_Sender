@@ -4,7 +4,7 @@
 
 <h2>Discord: GoldTeam#0001</h2>
 
-<p>Açık kaynak kod dosyasını verdim.</p>
+<p>exe olarak indirmek için:<a href="http://wikipedia.org/">Ansiklopedi</a></p>
 
 <h1>numbers.xlsx in içindeki A sütünuna numaralarınızı yazınız.</h1>
 
