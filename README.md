@@ -4,7 +4,7 @@
 
 <h2>Discord: GoldTeam#0001</h2>
 
-<p>exe olarak indirmek için:<a href="http://wikipedia.org/">Ansiklopedi</a></p>
+<p>exe olarak indirmek için <a href="https://s6.dosya.tc/server4/hdpzrh/Whatsaap_Sender.rar.html"> tıkla</a>.</p>
 
 <h1>numbers.xlsx in içindeki A sütünuna numaralarınızı yazınız.</h1>
 
